@@ -1,0 +1,155 @@
+
+<!---Link to stylesheets --->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/jquery.fancybox.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/responsive.css">
+<link rel="stylesheet" href="css/animate.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+<!-- JS FILES --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/jquery.fancybox.pack.js"></script> 
+<script src="js/jquery.waypoints.min.js"></script> 
+<script src="js/retina.min.js"></script> 
+<script src="js/modernizr.js"></script> 
+<script src="js/main.js"></script>
+
+
+<!-- banner text --> 
+<h1>Hey, I’m John</h1>
+<p>Looking for a strategist and experienced designer,<br>Scroll to see my work.</p>
+<!-- banner text --> 
+
+<!-- description text section -->
+<!--- place this part into the Widget contact-me --->
+<img src="images/designer-pic.jpg" alt="Mafolio">
+<h1>Johnathan Doe</h1>
+<p>UX Designer/ Developer</p>
+<!--- place this part into the Widget contact-me --->
+
+
+<!--- place this part into the Widget contact-me2 --->     
+<p>Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet avida at eget metus.Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet avida at eget metus.</p>
+<!--- place this part into the Widget contact-me2 --->  
+<!-- description text section -->
+
+<!-- hire me section -->
+<!--- place this part into the Widget hire-me --->
+<h3>Need something specific?</h3>
+<p>We are currently crafting new products but would love to hear from you.</p>
+<a href="#contact" class="btn btn-large">Hire me</a>
+<!--- place this part into the Widget hire-me --->
+<!-- hire me section -->
+
+
+<!--contact form section--> 
+<h3>Drop me a line</h3>
+<p>I am honest, discreet and always focus on your goals. If you are looking for a strategist and experienced designer, just leave me a message and I'll contact you soon.</p>
+<!--contact form start-->
+<div class="col-md-6 col-md-offset-3 conForm">
+<div id="message"></div>
+<form method="post" action="php/contact.php" name="cform" id="cform">
+<input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Your name..." >
+<input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Email Address..." >
+<textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Project Details..."></textarea>
+<input type="submit" id="submit" name="send" class="submitBnt" value="Send">
+<div id="simple-msg"></div>
+</form>
+</div>
+<!--contact form end--> 
+<!--contact form section--> 
+
+
+There are three steps to make a dynamic menu in WordPress
+
+1 - step: Register the menu position
+2 - step: Create the menu with Menu Builder in WordPress Apperance
+3 - step: Call the registered menu
+
+<!-- navigation section  -->
+<ul class="primary-nav">
+<li><a href="#aboutme">About Me</a></li>
+<li><a href="#works">Works</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+<!-- navigation section  -->
+
+<!-- Social Menu Icons  -->
+<ul class="footer-share">
+<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+<li><a href="#"><i class="fa fa-vimeo"></i></a></li>
+</ul>
+<!-- Social Menu Icons  -->
+
+Categories (Blogpost) 4,5,6,7
+
+
+<div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-1.jpg" class="work-box"> <img src="images/work-1.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Logo Design</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-2.jpg" class="work-box"> <img src="images/work-2.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Website Design</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-3.jpg" class="work-box"> <img src="images/work-3.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Branding</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-4.jpg" class="work-box"> <img src="images/work-4.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Graphic Design</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-5.jpg" class="work-box"> <img src="images/work-5.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Website Design</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-6.jpg" class="work-box"> <img src="images/work-6.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Logo Design</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-7.jpg" class="work-box"> <img src="images/work-7.jpg" alt="">
+        <div class="overlay">
+          <div class="overlay-caption">
+            <h5>Project Name</h5>
+            <p>Branding</p>
+          </div>
+        </div>
+        <!-- overlay --> 
+        </a> </div>
